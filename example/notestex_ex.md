@@ -1,5 +1,5 @@
 ---
-title : Pruebas de Header
+title : File Test using Notestex-Markdown
 author: Josué Meneses Díaz
 institute: Universidad de Santiago de Chile 
 numbersections: true
